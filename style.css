@@ -2483,3 +2483,23 @@ display: none;
           margin-left: 30%;
         }
       }
+
+
+.float{
+	position:fixed;
+	width:59px;
+	height:59px;
+	bottom:40px;
+	left:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
